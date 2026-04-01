@@ -25,7 +25,7 @@ Fullstack Developer focused on building scalable and maintainable web applicatio
 * Pinia / Vuex
 * Tailwind / Element Plus
 
-**Frontend**
+**Backend**
 * Go
 * Gin
 * PostgreSQL
